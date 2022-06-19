@@ -1,0 +1,84 @@
+a{
+  color:rgb(52, 52, 52);
+  text-decoration: none;
+  font-family:FangSong;
+  list-style-type: none;
+  font-size: 18px;
+  font-weight: bolder;
+}
+.container{
+  position:fixed;
+  display: flex;
+  padding-left: 15px;
+  padding-right: 200px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  top:0;
+  left: 0;
+  right:0;
+  background-color:rgba(188, 229, 255, 0.8);
+  justify-content: space-between;
+  align-items: center;
+}
+h1{
+  text-align:center;
+  padding:180px;
+  font-size:55px;
+  margin-top: 70px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 100px;
+  font-weight: bolder;
+  font-family:FangSong;
+  background-repeat: no-repeat;
+  background-image: url(하늘색배.jpg);
+  background-size: 1600px 630px
+}
+h2{
+  text-align: center;
+  font-size: 30px;
+  padding-bottom: 200px;
+  padding-top:200px;
+  margin-bottom: 150px;
+  margin-top: 70px;
+  background-color: rgba(188, 229, 255, 0.5);
+  font-family:FangSong;
+}
+h3{
+  padding-left:70px;
+  margin-top:20px;
+  font-family:FangSong;
+  font-size: 20px;
+}
+p{
+  text-align: center;
+  font-family: fangsong;
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(52, 52, 52);
+  padding-bottom: 50px;
+  padding-top: 70px;
+  margin-left: 0;
+  margin-right: 0;
+  border-top: solid 1px  rgba(188, 229, 255, 0.8);
+}
+li{
+  font-family: fangsong;
+  font-size: 20px;
+  margin-top:20px;
+  font-weight: bold;
+}
+img{
+  magin:50px;
+}
+.graph{
+  background-image: url(그림2.jpg);
+  background-repeat:no-repeat;
+  background-size: 1000px 800px;
+}
+#article{
+  line-height: 40px;
+  margin-right: 250px;
+  margin-left: 250px;
+  margin-bottom: 150px;
+}
